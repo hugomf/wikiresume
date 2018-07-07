@@ -1,12 +1,10 @@
----
-title: Hugo Martinez Fernandez
----
+# Hugo Martinez Fernandez
 
 ## Application Architect Engineer
 
 - Phone:
 - Email: [hugo_mf@hotmail.com](hugo_mf@hotmail.com)
-- Blog: [http://maikronian.com](http://maikronian.com)
+- Blog: [http://hugomf.com](http://hugomf.com)
 - GitHub: [https://github.com/hugomf](https://github.com/hugomf)
 
 ## Summary
@@ -43,7 +41,7 @@ leadership, entrepreneurial experience, strategic thinking, technical innovation
 
 ## Experience
 
-### **FREELANCE DEV – MEXICO DF**
+### **Freelance Developer – Mexico**
 
 *JAN 2018 - Present*
 
