@@ -7,7 +7,6 @@
 - Blog: [http://maikronian.com](http://maikronian.com)
 - GitHub: [https://github.com/hugomf](https://github.com/hugomf)
 
-
 ## Summary
 
 12+ years of experience working as a Software Engineer specializing in Object Oriented Analysis and Design with high 
