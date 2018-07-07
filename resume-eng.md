@@ -1,16 +1,18 @@
-# Hugo Martinez Fernandez
+---
+title: Hugo Martinez Fernandez
+---
 
 ## Application Architect Engineer
 
-- Phone: 
+- Phone:
 - Email: [hugo_mf@hotmail.com](hugo_mf@hotmail.com)
 - Blog: [http://maikronian.com](http://maikronian.com)
 - GitHub: [https://github.com/hugomf](https://github.com/hugomf)
 
 ## Summary
 
-12+ years of experience working as a Software Engineer specializing in Object Oriented Analysis and Design with high 
-expertise of project management with the full life cycle of the software design process, key consulting skills include 
+12+ years of experience working as a Software Engineer specializing in Object Oriented Analysis and Design with high
+expertise of project management with the full life cycle of the software design process, key consulting skills include
 leadership, entrepreneurial experience, strategic thinking, technical innovation, problem solving, decision-making.
 
 - Implementing management policies and directives.
@@ -24,12 +26,13 @@ leadership, entrepreneurial experience, strategic thinking, technical innovation
 
 *_Technical:_*
 -	Possess good analytical and problem-solving skills with a strong background in system design, development and implementing business solutions.
--	Building Test Driven Development strategies to help developers feel comfortable to work in pairs and building while testing and refactor redesigning the applications "on the go
+-	Building Test Driven Development strategies to help developers feel comfortable
+  to work in pairs and building while testing and refactor redesigning the applications "on the go
 -	Proficient in the use of Linux and UNIX operating systems
 -	Experience in J2EE Design patterns, and high level Architectural Patterns such as SOA and EAI.
--	Single Sign On Security Application Integration (SSO) using CAS. 
+-	Single Sign On Security Application Integration (SSO) using CAS.
 -	Familiarity with federated identity and web services security concepts (SAML)
--	Expertise with Object Oriented Design and Analysis (OOAD) using Unified modelling language (UML) architecture using Rational Rose. 
+-	Expertise with Object Oriented Design and Analysis (OOAD) using Unified modeling language (UML) architecture using Rational Rose.
 -	Experience with WebSphere Message Broker, MQSeries, SOAP and REST Services
 -	Familiar with MongoDB, Big Data, Hadoop
 -	Building and Design rules using Drools Business Rules engine.
@@ -44,11 +47,11 @@ leadership, entrepreneurial experience, strategic thinking, technical innovation
 
 *JAN 2018 - Present*
 
-Creating training and proof of concept materials for building a full stack architecture using micro-services and 
+Creating training and proof of concept materials for building a full stack architecture using micro-services and
 deploy in a cloud environment.
 
 *	Building an architecture solution building micro-services and create a proof of concept
-*	Building a sample REST API with spring technologies: 
+*	Building a sample REST API with spring technologies:
 	Kubernetes via Docker, PCF, AWS, Swagger to build the API.
 *	Creating continues integration strategy
 *	Creating a Vertical Slice using a Tensor-Flow and DeepLearning4J (Character recognition).
@@ -60,12 +63,12 @@ deploy in a cloud environment.
 
 *November 2015 - Dec 2017*
 
-Maintaining ETL Application to interact heterogeneous systems within ford systems environment, 
-like Single Ordering Systems, Product Definitions in Engineering (PDO) to deliver fastest 
+Maintaining ETL Application to interact heterogeneous systems within ford systems environment,
+like Single Ordering Systems, Product Definitions in Engineering (PDO) to deliver fastest
 Multi Decision diagrams that provide all configurations to match user selections.
 
 *	Build a micro-services architecture using spring boot and API RESTful services, JAXB for Soap.
-*	Creating a RabbitMQ Queue/Consumer services 
+*	Creating a RabbitMQ Queue/Consumer services
 *	Migrating build pipelines to the new cloud servers in PCF with Jenkins (DevOps task)
 *	Building micro-service’s real-time performance metrics in graphs with Grafana for our war room radiator.
 *	Create Blue-Green deploys in PCF.
@@ -90,11 +93,11 @@ Maintain the OnStar Call Center Application Product called GAA, developing the n
 
 *January 2014 - August 2014*
 
-Maintain toolkits applications (BMT and Producer), Migration from Weblogic Portal to a more lightweight environment 
+Maintain toolkits applications (BMT and Producer), Migration from Weblogic Portal to a more lightweight environment
 such as Spring + JSF + Weblogic Application Server.
 
 *	Agile based methodology
-*	Building Test cases using JUnit 4, Mockito, Power Mock and Selenium for UI Testing. 
+*	Building Test cases using JUnit 4, Mockito, Power Mock and Selenium for UI Testing.
 *	Review if we replace our current DB with MongoDB (Mongo DB Introductory training in Detroit, MI).
 *	Configure Spring Security and implement SSO by using SAML
 *	Migrating to non-portal environment by changing Portal built in authenticators, credential mappers to Spring Security, replace portal customization to JSF2 Facelets and dynamic templates.
